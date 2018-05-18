@@ -55,4 +55,4 @@ dependencies:
 - poppler
 - xerces-c
 - ncimonitor
-
+- mdssdiff
