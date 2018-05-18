@@ -49,3 +49,4 @@ dependencies:
 - xerces-c
 - ncimonitor
 - mayavi
+- mdssdiff
